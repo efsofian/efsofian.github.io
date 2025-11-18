@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["/efsofian.github.io/_next/static/chunks/ff1a16fafef87110.js","/efsofian.github.io/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"iZ6WoMIFBgeISwQwsVzAB","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"divTemp","children":[["$","h1",null,{"children":"rdv page"}],["$","a",null,{"href":"https://www.doctolib.fr/centre-d-imagerie-medicale/villejuif/centre-d-imagerie-medical-de-l-epi-d-or/booking/motive-categories?specialityId=11&telehealth=false&placeId=practice-258941&bookingFunnelSource=profile","children":"redirect doctolib"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"cb6B3oizmgpa8qV8UNYN6","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"divTemp","children":[["$","h1",null,{"children":"rdv page"}],["$","a",null,{"href":"https://www.doctolib.fr/centre-d-imagerie-medicale/villejuif/centre-d-imagerie-medical-de-l-epi-d-or/booking/motive-categories?specialityId=11&telehealth=false&placeId=practice-258941&bookingFunnelSource=profile","children":"redirect doctolib"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
