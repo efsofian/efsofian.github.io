@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/97b18154958b5661.js","/_next/static/chunks/37c0e9ffa6890c33.js"],""]
+2:I[22016,["/_next/static/chunks/97b18154958b5661.js","/_next/static/chunks/f718507ecb61ea6b.js"],""]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"h32C9qPJEwXj3jCjSd1Aq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"divTemp","children":[["$","h1",null,{"children":"liste imagerie du sein"}],["$","$L2",null,{"href":"/examens/senologie/echo-mammaire","children":["$","h3",null,{"children":"---echo mammaire"}]}],["$","$L2",null,{"href":"/examens/senologie/mammographie","children":["$","h3",null,{"children":"---mammographie"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"en24OrkQvNMi3aMawVUAs","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"divTemp","children":[["$","h1",null,{"children":"liste imagerie du sein"}],["$","$L2",null,{"href":"/examens/senologie/echo-mammaire","children":["$","h3",null,{"children":"---echo mammaire"}]}],["$","$L2",null,{"href":"/examens/senologie/mammographie","children":["$","h3",null,{"children":"---mammographie"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
