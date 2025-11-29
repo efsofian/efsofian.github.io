@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/b5da735464335765.js","/_next/static/chunks/d83ae37da3171413.js"],""]
+2:I[22016,["/_next/static/chunks/b5da735464335765.js","/_next/static/chunks/c32596ce12db93f5.js"],""]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"DVomF-1TrMgUmJvksnpkT","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"divTemp","children":[["$","h1",null,{"children":"centre et equipe"}],["$","$L2",null,{"href":"/centre/equipe","children":"---Equipe"}],["$","br",null,{}],["$","$L2",null,{"href":"/centre/equipement","children":"---Equipement"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"CnBhPOYBuLHof19YxAX1l","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"divTemp","children":[["$","h1",null,{"children":"centre et equipe"}],["$","$L2",null,{"href":"/centre/equipe","children":"---Equipe"}],["$","br",null,{}],["$","$L2",null,{"href":"/centre/equipement","children":"---Equipement"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
